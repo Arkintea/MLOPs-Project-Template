@@ -69,7 +69,7 @@ To setup CI/CD pipeline in heroku we need 3 information
 ```
 HEROKU_EMAIL = arkintea@gmail.com
 HEROKU_API_KEY = <>
-HEROKU_APP_NAME = implem
+HEROKU_APP_NAME = customer-personality
 ```
 
 ## BUILD DOCKER IMAGE
