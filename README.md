@@ -1,5 +1,5 @@
-# Project-Customer_Personality_Prediction
-Customer Personality Analysis is a detailed analysis of a company’s ideal customers
+# MLOP Project Title
+Discription
 
 ### Software and Account Requirements
 1. [Github Account](https://github.com/)
