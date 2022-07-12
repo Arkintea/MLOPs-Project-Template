@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 from typing import List
 
 #Declaring variables for setup functions
-PROJECT_NAME = "Customer_Personality_Prediction"
+PROJECT_NAME = "project_name"
 VERSION = "0.0.1" 
 AUTHOR = "Akintayo Akinpelu"
 DESCRIPTION = "This is an end-to-end MLOPs Project"
