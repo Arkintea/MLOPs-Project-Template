@@ -104,3 +104,7 @@ To install ipykernel
 ```
 install ipykernel
 ```
+
+-e . 
+means install all packages in current directory
+setup.py is required whenever you want to install -e .
